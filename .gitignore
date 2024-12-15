@@ -1,0 +1,8 @@
+.env
+.DS_Store
+node_modules
+__pycache__/
+*.pyc
+Tabular-Docs-chroma/
+.idea/
+transcript.txt
